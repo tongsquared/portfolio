@@ -16,3 +16,6 @@ More specifically, how to use minimal color to reflect meaingful informations. F
 # portolio
 Here is where all of my data visulizations are stored. 
 
+# Contact me
+You can contact me at zihanli@andrew.cmu.edu. Let me know you thoughts/comments/questions. Happy to connect!
+
