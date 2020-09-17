@@ -1,9 +1,7 @@
+In this assignment, I will present three visulizations of data from OECD. I will explain each of them based on the their advantages and disadvantages. 
 <h4 class="h3">This chart intends to show the government debt of OECD countries in the year of 2014.</h4>
-There are 10 OECD countries in this graph. The bar height represents how much the government debt is taken up to the overall country GDP. 
+Background: There are 10 OECD countries in this graph. The bar height represents how much the government debt is taken up to the overall country GDP. There are two highlighted bars with numbers at the top of each of them in this graphic: Red and Blue. The red bar refers to the Sweden and the blue bar refers to the United States. 
 <iframe src="https://data.oecd.org/chart/65JX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65JX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2014</a></iframe>
 <h4 class="h3">This graphic represents a visulization of Government Debt of OECD countries from 1995 to 2019.</h4>
 There are 16 OECD countries represented in this graph, in other words, 16 small graphs in the overall graphic. Each line represents the yearly growth of each country's debt-to-gdp ratio.
 <div class="flourish-embed flourish-chart" data-src="visualisation/3747790" data-url="https://flo.uri.sh/visualisation/3747790/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<h4 class="h3"> This is a data visulization from Tableau.</h4>
-<iframe src="https://public.tableau.com/views/Book1_16003061695650/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true"
- width="100%" height="955"></iframe>
