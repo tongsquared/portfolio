@@ -15,3 +15,4 @@ Advantages: This graphic solved problems of previous two graphics. It can not on
 Disadvantage: I think the information is still a bit too much. For instance there are a bit excessive countries represented in this graph and the year length(from 1996 to 2020) makes the length of the graphic excessively long as well. If to revise, I think adjusting the number of the coutries being represented and the year interval would deliver a more concise graphic. 
 <iframe src="https://public.tableau.com/views/Book1_16003061695650/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true"
  width="100%" height="955"></iframe>
+[Go Back](/Assignment_2.md)
