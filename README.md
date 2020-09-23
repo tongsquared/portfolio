@@ -20,4 +20,5 @@ Here is where all of my data visulizations are stored.
 You can contact me at zihanli@andrew.cmu.edu. Let me know you thoughts/comments/questions. Happy to connect!
 
 [Link to Assignment_2](/Assignment_2.md)
+
 [Link to Assignment_3](/Assignment_3.md)
