@@ -1,11 +1,11 @@
-Step 1: 
+**Step 1:
 This is the data visualization that I selected. It aims to display the number of PA school districts with negative income growth rate and identify the surging period of when
-it happened.
+it happened.**
 <p align="right">
   <img src="./unnamed.png" />
 </p>
-Step 2: 
-Critiques:
+**Step 2: 
+Critiques:**
 Based off Stephen Few's Data Visualization Effectiveness Profile, I will critique this visulization from five perspectives:
 1. Useless VS Useful: This graphic is very useful as it presents the historical trend of taxable income growth of PA school districts. 
 2. Completeness: I think this graphic needs more clarification in explaining the message that it wants to express.
@@ -13,15 +13,15 @@ Based off Stephen Few's Data Visualization Effectiveness Profile, I will critiqu
 for the message
 4. Truthfulness: This graphic presents truthful data as it is. There isn't torted data.
 5. Intuitiveness: This graphic isn't as intuitive because it presents negative income growth which means a decrease in income, but we are looking at the increase of the count of negative income growth school districts. So it takes some efforts to understand what it is truly trying to deliver. 
-Step 3: 
-Below is a visualization of my wireframe 
+**Step 3: 
+Below is a visualization of my wireframe**
 <p align="right">
   <img src="./Sketch1.png" />
 </p>
-Thought Processs:
+**Thought Processs:**
 There are some small places I would like to change: axies names, position of numbers, title name and overall color theme. 
-Step 4: 
-Test Solutions 
+**Step 4: 
+Test Solutions**
 Chenxiao Guan (Test Case 1): 
 Q: What message do you think this graph is trying to deliver?
 A: I think this graphic is trying to show me the trend of a metric from 2007 to 2017. 
@@ -36,13 +36,13 @@ Q: Who do you think might find this graphic useful?
 A: I think the numbers give me a better sense of the data and the slope of the segment lines indicates their growth rate as well. Everything is very clear.  
 Q: What do you think is unclear or confusing in this graphic?
 A: I think maybe providing more context to it, because I would be a bit confused to learn about the increasing count of negative income...Like give a description to describe this graph. 
-Step 5: 
+**Step 5: 
 Visulize the solution
-Graph:
+Graph:**
 <p align="right">
   <img src="./upload.png" />
 </p>
-Insights:
+**Insights:**
 1. When the datapoints are not as complicated, add some background color can better contrast the results. 
 2. Do not include varibale names that audience do not know in axies 
 3. Add numbers to appropriate positions rather than ambigous positions.  
