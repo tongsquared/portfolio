@@ -16,7 +16,7 @@ for the message
 Step 3: 
 Below is a visualization of my wireframe 
 <p align="right">
-  <img src="./image(5).png" />
+  <img src="./sketch.png" />
 </p>
 Step 4:
 Chenxiao: 
