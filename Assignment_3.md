@@ -16,7 +16,7 @@ for the message
 Step 3: 
 Below is a visualization of my wireframe 
 <p align="right">
-  <img src="./sketch.png" />
+  <img src="./sketch1.png" />
 </p>
 Step 4:
 Chenxiao Guan (Test Case 1): 
@@ -26,5 +26,13 @@ Q: Who do you think might find this graphic useful?
 A: I think maybe school district officials or people who are designing the tax rates would find it useful as it will give them an idea of what to expect and also how they performed. 
 Q: What do you think is unclear or confusing in this graphic?
 a: I think when I first looked at this graphic, the color looks professional and there isn't too many of them just blue and white. But maybe adding just another color to emphasize one of the year can be more intuitive in delivering the message. 
-Step 5: 
+Eagon Wang( Test Case 2):
+Step 5: My solution
+Graph:
+<p align="right">
+  <img src="./upload.png" />
+</p>
+Insights:
+
+
  
