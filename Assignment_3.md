@@ -13,7 +13,7 @@ Based off Stephen Few's Data Visualization Effectiveness Profile, I will critiqu
 for the message
 4. Truthfulness: This graphic presents truthful data as it is. There isn't torted data.
 5. Intuitiveness: This graphic isn't as intuitive because it presents negative income growth which means a decrease in income, but we are looking at the increase of the count of negative income growth school districts. So it takes some efforts to understand what it is truly trying to deliver. <br />
-[download](./Dataset_critique.xlsx)
+<a href="./Dataset_critique.xlsx">download</a>
 **Step 3: <br />
 Below is a visualization of my wireframe**<br />
 <p align="right">
