@@ -16,8 +16,10 @@ for the message
 Step 3: 
 Below is a visualization of my wireframe 
 <p align="right">
-  <img src="./sketch1.png" />
+  <img src="./Kketch1.png" />
 </p>
+Thought Processs:
+There are some small places I would like to change: axies names, position of numbers, title name and overall color theme. 
 Step 4:
 Chenxiao Guan (Test Case 1): 
 Q: What message do you think this graph is trying to deliver?
@@ -27,12 +29,20 @@ A: I think maybe school district officials or people who are designing the tax r
 Q: What do you think is unclear or confusing in this graphic?
 a: I think when I first looked at this graphic, the color looks professional and there isn't too many of them just blue and white. But maybe adding just another color to emphasize one of the year can be more intuitive in delivering the message. 
 Eagon Wang( Test Case 2):
+Q: What message do you think this graph is trying to deliver?
+A: some growth rate trend over the past 10 years?
+Q: Who do you think might find this graphic useful?
+A: I think the numbers give me a better sense of the data and the slope of the segment lines indicates their growth rate as well. Everything is very clear.  
+Q: What do you think is unclear or confusing in this graphic?
+A: I think maybe providing more context to it, because I would be a bit confused to learn about the increasing count of negative income...Like give a description to describe this graph. 
 Step 5: My solution
 Graph:
 <p align="right">
   <img src="./upload.png" />
 </p>
 Insights:
-
+1. When the datapoints are not as complicated, add some background color can better contrast the results. 
+2. Do not include varibale names that audience do not know in axies 
+3. Add numbers to appropriate positions rather than ambigous positions. 
 
  
