@@ -16,7 +16,7 @@ for the message
 Step 3: 
 Below is a visualization of my wireframe 
 <p align="right">
-  <img src="./Kketch1.png" />
+  <img src="./Sketch1.png" />
 </p>
 Thought Processs:
 There are some small places I would like to change: axies names, position of numbers, title name and overall color theme. 
