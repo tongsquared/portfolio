@@ -55,4 +55,4 @@ In my final solution, I fixed all the issues I mentioned in step 2: axis names, 
 the audience better understand the data. However, I think adding a separate paragraph to explain this graph is necessary as the grahic itself may not convey as much information
 as it intends to do.
 What I wish to do more: I wish to highlight the segment of two surging periods if possible: segments from 2008 to 2009 and 2015 to 2016, because I would like my audience to focus on these two periods as they reflect the worst financial situations during these ten years. Also add a short paragraph to explain why we are exploring this dataset. 
- 
+[Go Back](/README.md)
