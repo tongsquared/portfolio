@@ -43,6 +43,6 @@ Graph:
 Insights:
 1. When the datapoints are not as complicated, add some background color can better contrast the results. 
 2. Do not include varibale names that audience do not know in axies 
-3. Add numbers to appropriate positions rather than ambigous positions. 
+3. Add numbers to appropriate positions rather than ambigous positions.  
 
  
