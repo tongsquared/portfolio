@@ -20,7 +20,8 @@ Below is a visualization of my wireframe
 </p>
 Thought Processs:
 There are some small places I would like to change: axies names, position of numbers, title name and overall color theme. 
-Step 4:
+Step 4: 
+Test Solutions 
 Chenxiao Guan (Test Case 1): 
 Q: What message do you think this graph is trying to deliver?
 A: I think this graphic is trying to show me the trend of a metric from 2007 to 2017. 
@@ -35,7 +36,8 @@ Q: Who do you think might find this graphic useful?
 A: I think the numbers give me a better sense of the data and the slope of the segment lines indicates their growth rate as well. Everything is very clear.  
 Q: What do you think is unclear or confusing in this graphic?
 A: I think maybe providing more context to it, because I would be a bit confused to learn about the increasing count of negative income...Like give a description to describe this graph. 
-Step 5: My solution
+Step 5: 
+Visulize the solution
 Graph:
 <p align="right">
   <img src="./upload.png" />
