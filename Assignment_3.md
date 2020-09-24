@@ -24,3 +24,4 @@ Q: What message do you think this graph is trying to deliver?
 A: So I firstly notice two red highlights, which tells me these are two periods. Then I noticed the title of the graphic is two leading periods. So I know for sure this is trying
 to emphasize two rising periods with a metric.
 Q: 
+ 
