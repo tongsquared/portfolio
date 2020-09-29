@@ -23,5 +23,5 @@ You can contact me at zihanli@andrew.cmu.edu. Let me know you thoughts/comments/
 
 [Link to Assignment_3](/Assignment_3.md)
 
-[Link to Final Project](/Final_Project_Part1_ZihanLi.md}
+[Link to Final Project](/Final_Project_Part1_ZihanLi.md)
 
