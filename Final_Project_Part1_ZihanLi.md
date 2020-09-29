@@ -11,6 +11,14 @@ The final Call to Action is to spread the awareness of adopting over purchasing 
 <p align="right">
   <img src="./Sketch_Project.png" />
 </p>
+
+<p align="right">
+  <img src="./Page2.jpg" />
+</p>
+
+<p align="right">
+  <img src="./Page3.jpg" />
+</p>
 <h4 class="h3">Data Documentation</h4><br/>
 I acquired this dataset from kaggle and plan to plot some exploraory charts with this dataset. There are eight variables in this dataset: <br/>
 ID, Name, DateTime, AnimalType, SexuponOutcome, AgeuponOutcome, Breed, Color <br/>
