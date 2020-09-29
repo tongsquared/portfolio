@@ -14,6 +14,6 @@ I acquired this dataset from kaggle and plan to plot some exploraory charts with
 ID, Name, DateTime, AnimalType, SexuponOutcome, AgeuponOutcome, Breed, Color <br/>
 I chose this dataset because there are many valueable information here. For instance I can explore how does breed affect shelter animal outcomes, and how does age affect shelter animal outcomes. These graphics would reveal some correlations between certain factors and shelter animal outcomes. By revealing these information to the audience, they might consider more comprehensively while adopting a shelter animal. 
 Here is the link to the dataset:
-
+<a href="./test.csv">download</a> <br />
 <h4 class="h3">Method and Medium</h4><br/>
 I will use shorthand to create a story including some graphcis as well as some photos from news. 
