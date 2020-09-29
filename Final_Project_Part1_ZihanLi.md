@@ -16,4 +16,8 @@ I chose this dataset because there are many valueable information here. For inst
 Here is the link to the dataset:
 <a href="./test.csv">download</a> <br />
 <h4 class="h3">Method and Medium</h4><br/>
-I will use shorthand to create a story including some graphcis as well as some photos from news. 
+I will use shorthand to create a story including some graphcis as well as some photos from news. I envision this shorthand website will include three sections. <br/>
+Section 1: A title page showing pictures of some shelter animals with a big heading "Compassion Over Passion" --- A subtitle page gives some statistics about shelter animals such as the growth of the count of shelter animals. 
+Section 3: Graphics presenting their outcomes, factors affecting the outcomes. For instance: 40% of the shelter animals ended up being transferred to another owner or shelter. Age contributes significantly to the final outcome of the animal. Dogs have a higher chance to be adopted over cats. 
+After introducing these statistics and visulizations to the audience, I wish to include some current policies protecting and helping shelter animals and places where shelter animals still need help on. 
+Lastly, I will include a few ways where people can seek more related resources from, ways to help initiating more policies to help shelter animals or just to spread the awareness of "Aopting over Purchasing". 
