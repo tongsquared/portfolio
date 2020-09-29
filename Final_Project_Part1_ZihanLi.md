@@ -5,6 +5,8 @@ Some major elements my project will include are: <br/>
 1. Shelter Animals Outcomes after adoptions <br/>
 2. Important Factors to A Successful Adoption <br/>
 3. Emphasis of "Compassion over Fashion" and "Adopting over Purchasing" Visulizations. 
+The story arc is to gradually introduce the audience the current situation that shelter animals are facing and what they might expect in midst of global pandemic.  <br/>
+The final Call to Action is to spread the awareness of adopting over purchasing as well as compassion over fashion to encourage people who wish to adopt animals to consider the option of adopting over purchasing and while choosing an animal to adopt, Not consider it's looking first because the purpose of a pet is companion. 
 <h4 class="h3">Sketches</h4><br/>
 <p align="right">
   <img src="./Sketch_Project.png" />
