@@ -6,6 +6,8 @@ Some major elements my project will include are: <br/>
 2. Important Factors to A Successful Adoption <br/>
 3. Emphasis of "Compassion over Fashion" and "Adopting over Purchasing" Visulizations. 
 <h4 class="h3">Sketches</h4><br/>
-
+<p align="right">
+  <img src="./Sketch_Project.png" />
+</p>
 <h4 class="h3">Data Documentation</h4><br/>
 <h4 class="h3">Method and Medium</h4><br/>
