@@ -15,5 +15,5 @@ I created a draft wireframe with Shorthand which contains the major components o
   <img src="./shorthand2.JPG" />
 </p>
 <p align="right">
-  <img src="./transpets.png" />
+  <img src="./transferpets.png" />
 </p>
