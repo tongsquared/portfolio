@@ -5,7 +5,7 @@ I created a draft wireframe with Shorthand which contains the major components o
   <img src="./1.jpg" />
 </p><br />
 <p align="right">
-  <img src="./shorthand2.JPG" />
+  <img src="./shorthand3.JPG" />
 </p>
 2. Overview of the shelter animals outcomes:<br />
 a. Dogs VS Cats<br />
@@ -14,7 +14,7 @@ a. Dogs VS Cats<br />
 </p>
 b. Adoption Outcomes<br />
 <p align="right">
-  <img src="./adoptionoutcomes.JPG" />
+  <img src="./adoptionoutcome.JPG" />
 </p>
 c. Suboutcomes of transfer and enthuasia<br />
 <p align="right">
