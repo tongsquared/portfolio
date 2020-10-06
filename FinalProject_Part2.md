@@ -11,3 +11,9 @@ I created a draft wireframe with Shorthand which contains the major components o
 <p align="right">
   <img src="./causespet.png" />
 </p>
+<p align="right">
+  <img src="./shorthand2.JPG" />
+</p>
+<p align="right">
+  <img src="./transpets.png" />
+</p>
