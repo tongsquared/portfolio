@@ -1,4 +1,4 @@
-**Wireframes and Storyboards:**
+**Wireframes and Storyboards:**<br />
 I created a draft wireframe with Shorthand which contains the major components of my project. 
 **1. Visuals of shelter animals to introduce my topic ( 2 photos )<br />**
 <p align="right">
@@ -12,17 +12,21 @@ I created a draft wireframe with Shorthand which contains the major components o
 <p align="right">
   <img src="./Petoutcome.JPG" />
 </p>
+I intend to show the audience there is a higher possibility for dogs to be adopted over cats. I will provide some analysis next to the visuals on the final version of the website. 
 b. Adoption Outcomes<br />
 <p align="right">
   <img src="./adoptionoutcome.JPG" />
 </p>
+This visuals present five outcomes and I will provide brief explanations next to this visuals with what each means.<br />
 c. Suboutcomes of transfer and enthuasia<br />
 <p align="right">
   <img src="./transferpets.png" />
-</p>
+</p><br />
+This visuals presents the transfer suboutcomes. I wich to give the audience a sense of the distribution of this outcome. <br />
 <p align="right">
   <img src="./causespet.png" />
-</p>
+</p><br />
+
 <p align="right">
   <img src="./resultp.JPG" />
 </p>
