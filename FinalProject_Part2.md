@@ -1,6 +1,6 @@
 **Wireframes and Storyboards:**<br />
 I created a draft wireframe with Shorthand which contains the major components of my project. <br />
-[Link to Shorthand Preview](https://preview.shorthand.com/SlbyuWutU1nOBh4N)
+[Link to Shorthand Preview](https://preview.shorthand.com/SlbyuWutU1nOBh4N)<br />
 **1. Visuals of shelter animals to introduce my topic ( 2 photos )**<br />
 <p align="right">
   <img src="./1.jpg" />
