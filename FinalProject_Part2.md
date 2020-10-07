@@ -41,6 +41,12 @@ e. Shelter animal age upon adoption.<br />
   <img src="./ageadoption.JPG" />
 </p>
 This visuals presents the statistics of pet's age upon adoption<br />
+f. Pet story <br /> 
+In this section, I will elaborate on one of the reasons people abandon their pets to shelters by introducing the frenchs abandoning their pets during theit vacations. 
+g. Shelters Animals during the pandemic time <br />
+How would the pandemic impact shelter animals and the adoption rates? I would present some recent data regarding the impact and predictions about what might happen post-covid. <br />
+
+
 User Research<br />
 I will use shorthand to create a draft and use it to conduct my user researches. <br />
 User Research Protocol: <br />
@@ -49,6 +55,7 @@ User Research Protocol: <br />
 3. Interview Script and material. <br />
 4. Findings. <br />
 5. Changes made or to be made for final version. <br />
+I added two pet stories and the shelter animals during COVID-19 section to the draft website.
 **Target Group:** I will focus on two groups of people. Firstly, I wish to interview those who has or had a pet. I will ask them the way they got the pet and ask them why they choose to purchase/adopt. Secondly, I wish to interview those who have no previous experiences of raising a pet. 
 **Approach for finding the right group:** I will conduct a series of screening questions to send out to my social media and select candidates from received responses. 
 **Interview Script:** 1. Have you had or currently raising a pet? If so, did you adopt it or purchase it from a breeder and why? 2. What are your perceptions adopting animals from shelters versus purchasing from the breeders? 3. What do you think the shelter animals' outcomes are? For instance what percentage do you anticipate that will get adopted versus not adopted? Above are some questions that I will ask before showing them the draft website. Here are the followup questions after showing them the website: 1. What did you learn from the website that suprised you or are different from you expectations? 2. If you were to get a new pet, do you still want to adopt/purchase it? ( different based on people's previous answers ) 3. What suggestions do you have for me? For instance, are there some data that you would like to see but it not on here currently? 
