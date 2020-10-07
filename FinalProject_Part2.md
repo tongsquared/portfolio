@@ -41,15 +41,15 @@ e. Shelter animal age upon adoption.<br />
   <img src="./ageadoption.JPG" />
 </p>
 This visuals presents the statistics of pet's age upon adoption<br />
-f. Pet story <br /> 
+**f. Pet story**<br /> 
 In this section, I will elaborate on one of the reasons people abandon their pets to shelters by introducing the frenchs abandoning their pets during theit vacations. 
-g. Shelters Animals during the pandemic time <br />
+**g. Shelters Animals during the pandemic time** <br />
 How would the pandemic impact shelter animals and the adoption rates? I would present some recent data regarding the impact and predictions about what might happen post-covid. <br />
 
 
-User Research<br />
+**User Research**<br />
 I will use shorthand to create a draft and use it to conduct my user researches. <br />
-User Research Protocol: <br />
+**User Research Protocol:** <br />
 1. Identify interview goals and type of people to interview.<br />
 2. Approach for finding the right candidate. <br />
 3. Interview Script and material. <br />
