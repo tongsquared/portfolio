@@ -44,7 +44,7 @@ This visuals presents the statistics of pet's age upon adoption<br />
 **f. Pet story**<br /> 
 In this section, I will elaborate on one of the reasons people abandon their pets to shelters by introducing the frenchs abandoning their pets during theit vacations. 
 **g. Shelters Animals during the pandemic time** <br />
-How would the pandemic impact shelter animals and the adoption rates? I would present some recent data regarding the impact and predictions about what might happen post-covid. <br />
+How would the pandemic impact shelter animals and the adoption rates? I would present some recent data regarding the impact and predictions about what might happen post-covid. However not a lot of the data have been released publically and I will still be looking for related data before the final version<br />
 
 
 **User Research**<br />
