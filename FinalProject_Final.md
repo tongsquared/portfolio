@@ -95,7 +95,7 @@ As for my final version, I intend to start with my own story to explain why I ch
 2. I added a data visualization to show the US pets abandonment rate for different regions <br />
 3. Story of Xiaohua to show the possible traumas to secondly abandoned pet and how important responsibilities are. <br />
 4. Checklists prior to make the decision of adoption <br />
-**Link to Shorthand:** <br />
+**Link to Shorthand:** <br /> https://carnegiemellon.shorthandstories.com/accompany-me-adopt-me-/index.html
 **References:** <br />
 All sources used in Shorthand Story are included below:<br />
 https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics
