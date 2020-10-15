@@ -72,7 +72,7 @@ Lastly, I will include a few ways where people can seek more related resources f
   <img src="./ageadoption.JPG" />
 </p>
 <p align="right">
-  <img src="./statista.JPG" />
+  <img src="./statista.jepg" />
 </p>
 **User Researches and Findings:** <br />
 1. Identify interview goals and type of people to interview.<br />
