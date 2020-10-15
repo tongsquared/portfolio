@@ -71,6 +71,9 @@ Lastly, I will include a few ways where people can seek more related resources f
 <p align="right">
   <img src="./ageadoption.JPG" />
 </p>
+<p align="right">
+  <img src="./statista.JPG" />
+</p>
 **User Researches and Findings:** <br />
 1. Identify interview goals and type of people to interview.<br />
 2. Approach for finding the right candidate. <br />
