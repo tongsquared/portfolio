@@ -20,7 +20,7 @@ for the message
 **Step 3: <br />
 Below is a visualization of my wireframe**<br />
 <p align="right">
-  <img src="./Sketch1.png" />
+  <img src="./images/Sketch1.png" />
 </p>
 **Thought Processs:**<br />
 There are some small places I would like to change: axies names, position of numbers, title name and overall color theme. <br />
@@ -46,7 +46,7 @@ A common message that I am getting is that the information that this graphic is 
 Visulize the solution<br />
 Graph:**<br />
 <p align="right">
-  <img src="./upload1.png" />
+  <img src="./images/upload1.png" />
 </p>
 **Insights:**<br />
 1. When the datapoints are not as complicated, add some background color can better contrast the results. 
