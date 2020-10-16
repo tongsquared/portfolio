@@ -9,22 +9,22 @@ The story arc is to gradually introduce the audience the current situation that 
 The final Call to Action is to spread the awareness of adopting over purchasing as well as compassion over fashion to encourage people who wish to adopt animals to consider the option of adopting over purchasing and while choosing an animal to adopt, Not consider it's looking first because the purpose of a pet is companion. 
 <h4 class="h3">Sketches</h4><br/>
 <p align="right">
-  <img src="./Sketch_Project.png" />
+  <img src="./images/Sketch_Project.png" />
 </p>
 
 <p align="right">
-  <img src="./Page2.jpg" />
+  <img src="./images/Page2.jpg" />
 </p>
 
 <p align="right">
-  <img src="./Page3.jpg" />
+  <img src="./images/Page3.jpg" />
 </p>
 <h4 class="h3">Data Documentation</h4><br/>
 I acquired this dataset from kaggle and plan to plot some exploraory charts with this dataset. There are eight variables in this dataset: <br/>
 ID, Name, DateTime, AnimalType, SexuponOutcome, AgeuponOutcome, Breed, Color <br/>
 I chose this dataset because there are many valueable information here. For instance I can explore how does breed affect shelter animal outcomes, and how does age affect shelter animal outcomes. These graphics would reveal some correlations between certain factors and shelter animal outcomes. By revealing these information to the audience, they might consider more comprehensively while adopting a shelter animal. 
 Here is the link to the dataset:
-<a href="./train.csv">download</a> <br />
+<a href="./data/train.csv">download</a> <br />
 <h4 class="h3">Method and Medium</h4><br/>
 I will use shorthand to create a story including some graphcis as well as some photos from news. I envision this shorthand website will include three sections. <br/>
 Section 1: A title page showing pictures of some shelter animals with a big heading "Compassion Over Passion" --- A subtitle page gives some statistics about shelter animals such as the growth of the count of shelter animals. 
