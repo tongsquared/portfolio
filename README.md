@@ -28,3 +28,5 @@ You can contact me at zihanli@andrew.cmu.edu. Let me know you thoughts/comments/
 [Link to Final_Project_Part2](/FinalProject_Part2.md)
 
 [Link to Final_Project_Final](/FinalProject_Final.md)
+
+Hello from local git
