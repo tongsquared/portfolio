@@ -41,38 +41,38 @@ Lastly, I will include a few ways where people can seek more related resources f
 **Part II** <br />
 **Sketches:** <br />
 <p align="right">
-  <img src="./Sketch_Project.png" />
+  <img src="./images/Sketch_Project.png" />
 </p>
 <p align="right">
-  <img src="./Page2.jpg" />
+  <img src="./images/Page2.jpg" />
 </p>
 <p align="right">
-  <img src="./Page3.jpg" />
+  <img src="./images/Page3.jpg" />
 </p>
 **Note**: More added in the final version. 
 <p align="right">
-  <img src="./Petoutcome.JPG" />
+  <img src="./images/Petoutcome.JPG" />
 </p>
 <p align="right">
-  <img src="./adoptionoutcome.JPG" />
+  <img src="./images/adoptionoutcome.JPG" />
 </p>
 <p align="right">
-  <img src="./transferpets.png" />
+  <img src="./images/transferpets.png" />
 </p><br />
 <p align="right">
-  <img src="./causespet.png" />
+  <img src="./images/causespet.png" />
 </p><br />
 <p align="right">
-  <img src="./resultp.JPG" />
+  <img src="./images/resultp.JPG" />
 </p>
 <p align="right">
-    <img src="./userstory1.JPG" />
+    <img src="./images/userstory1.JPG" />
 </p>
 <p align="right">
-  <img src="./ageadoption.JPG" />
+  <img src="./images/ageadoption.JPG" />
 </p>
 <p align="right">
-  <img src="./statista.jpeg" />
+  <img src="./images/statista.jpeg" />
 </p>
 **User Researches and Findings:** <br />
 1. Identify interview goals and type of people to interview.<br />
