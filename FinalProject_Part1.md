@@ -31,3 +31,4 @@ Section 1: A title page showing pictures of some shelter animals with a big head
 Section 3: Graphics presenting their outcomes, factors affecting the outcomes. For instance: 40% of the shelter animals ended up being transferred to another owner or shelter. Age contributes significantly to the final outcome of the animal. Dogs have a higher chance to be adopted over cats. 
 After introducing these statistics and visulizations to the audience, I wish to include some current policies protecting and helping shelter animals and places where shelter animals still need help on. 
 Lastly, I will include a few ways where people can seek more related resources from, ways to help initiating more policies to help shelter animals or just to spread the awareness of "Aopting over Purchasing". 
+[Go Back](/README.md)
